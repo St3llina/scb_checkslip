@@ -17,7 +17,7 @@ This project is a simple example of how to integrate and use an API to verify pa
   - Transfer amount
   - Date and time
   - Reference ID
-- Example implementation using Node.js / TypeScript
+- Example implementation using Python
 
 ---
 
