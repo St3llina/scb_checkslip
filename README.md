@@ -20,16 +20,3 @@ This project is a simple example of how to integrate and use an API to verify pa
 - Example implementation using Python
 
 ---
-
-## 🛠️ Tech Stack
-
-- Python
-
----
-
-## 🚀 Installation
-
-```bash
-git clone https://github.com/your-username/scb-slip-checker.git
-cd scb-slip-checker
-py main.py
