@@ -23,10 +23,7 @@ This project is a simple example of how to integrate and use an API to verify pa
 
 ## 🛠️ Tech Stack
 
-- Node.js / Bun
-- TypeScript
-- Axios / Fetch API
-- dotenv
+- Python
 
 ---
 
